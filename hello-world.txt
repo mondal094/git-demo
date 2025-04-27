@@ -1,3 +1,4 @@
 Hello world!
 
 1. project from scratch 
+2. Fork the repo
